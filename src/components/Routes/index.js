@@ -2,6 +2,9 @@ import React from 'react';
 import {Route} from 'react-router-dom';
 import Auth from '../Auth';
 const Routes = () => (
-    <Route path="/signup" exact render={(prop) => <Auth {...prop}/> } />
+    <>
+        <Route path="/signup" exact render={(prop) => <Auth {...prop} signup/> } />
+        <Route path="/signin" exact render={(prop) => <Auth {...prop}/> } />
+    </>
 )
 export default Routes;
