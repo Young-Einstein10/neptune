@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.message {
+    padding: 20px;
+    box-sizing: border-box;
+    max-width: 55%;
+    border-radius: 20px;
+    background-color: #C4C4C4;
+    color: rgba(0, 0, 0, 0.8);
+}
+.container p {
+    color: white;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+}

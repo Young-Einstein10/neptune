@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: #252525;
+    color: white;
+}
+.container ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 14px;
+}
+.container li {
+    padding: 10px 10px;
+}
+.profile {
+    display: flex;
+    margin-left: auto;
+}

@@ -1,0 +1,8 @@
+.container {
+    height: 100vh;
+    background-color: #333333;
+}
+.chat {
+    display: flex;
+    padding: 20px;
+}

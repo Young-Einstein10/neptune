@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    width: 75vw;
+    border-radius: 0 0 20px 20px;
+    overflow: hidden;
+}
+.container button {
+    margin-left: auto;
+    background-color: #EAA81A;
+    width: 10%;
+    border: none;
+}
+.container button:hover {
+    cursor: pointer;
+}
+.container input[type="text"] {
+    background-color: #C4C4C4;
+    padding: 15px;
+    width: 100%;
+    font-size: 16px;
+    border: none;
+    border-radius: 0 0 0 20px;
+}
