@@ -1,3 +1,10 @@
 .input {
-    
+  background: #F2F2F2;
+  border-radius: 5px;
+  border: 0;
+  padding: 15px 15px;
+  font-size: 16px;
+  color: #797979;
+  width: 90%;
 }
+
